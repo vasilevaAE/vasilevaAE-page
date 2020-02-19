@@ -11,4 +11,11 @@
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
     }
+    
+    {
+        "id": 3,
+        "title": "План деятельности",
+        "description": "отчет",
+       
+    }
 ]
