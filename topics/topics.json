@@ -1,0 +1,20 @@
+[
+    {
+        "id": "3_LR",
+        "title": "Лабораторные работы",
+        "description": "Отчеты по ЛР",
+        "preview": "img/lr.png"
+    },
+    {
+        "id": "4_Seminars",
+        "title": "Семинары",
+        "description": "Отчеты по семинарам",
+        "preview": "img/seminars.png"
+    },
+    {
+        "id": "5_Project",
+        "title": "Проект",
+        "description": "Этапы проекта",
+        "preview": "img/project.png"
+    }
+]
