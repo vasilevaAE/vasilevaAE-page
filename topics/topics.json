@@ -5,12 +5,7 @@
         "description": "Отчеты по ЛР",
         "preview": "img/lr.png"
     },
-    {
-        "id": "4_Seminars",
-        "title": "Семинары",
-        "description": "Отчеты по семинарам",
-        "preview": "img/seminars.png"
-    },
+    ,
     {
         "id": "5_Project",
         "title": "Проект",
